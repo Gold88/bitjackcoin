@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitjackcoin
+Comment=Bitjackcoin P2P Cryptocurrency
+Comment[fr]=Bitjackcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitjackcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/bitjackcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitjackcoin80.xpm
+MimeType=x-scheme-handler/bitjackcoin;
+Categories=Office;

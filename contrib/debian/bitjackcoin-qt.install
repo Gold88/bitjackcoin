@@ -1,0 +1,5 @@
+bitjackcoin-qt usr/bin
+share/pixmaps/bitjackcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitjackcoin80.xpm usr/share/pixmaps
+debian/bitjackcoin-qt.desktop usr/share/applications
+debian/bitjackcoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,2 @@
+debian/bin/bitjackcoind usr/bin
+src/bitjackcoind usr/lib/bitjackcoin

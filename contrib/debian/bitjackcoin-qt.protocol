@@ -1,0 +1,11 @@
+[Protocol]
+exec=bitjackcoin-qt '%u'
+protocol=bitjackcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
